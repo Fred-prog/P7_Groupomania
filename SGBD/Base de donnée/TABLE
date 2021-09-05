@@ -1,0 +1,25 @@
+comment 
+
+title: DataTypes.STRING,
+    content: DataTypes.STRING,
+    likes: DataTypes.INTEGER,
+    dislikes: DataTypes.INTEGER,
+    user_liked: DataTypes.string,
+    user_disliked: DataTypes.string
+    
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Post
+
+title: DataTypes.STRING,
+    content: DataTypes.STRING,
+    likes: DataTypes.INTEGER,
+    dislikes: DataTypes.INTEGER,
+    user_liked: DataTypes.string,
+    user_disliked: DataTypes.string
+    
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+image
+
+urlimage: DataTypes.STRING
